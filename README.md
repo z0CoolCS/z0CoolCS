@@ -15,4 +15,5 @@ Skills: Pytorch / Tensorflow / Scikit-Learn / Numpy / Pandas
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-<iframe src="https://giphy.com/embed/CVtNe84hhYF9u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/artificial-intelligence-singularity-CVtNe84hhYF9u">via GIPHY</a></p>
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/z0CoolCS/z0CoolCS/blob/main/atari_dql.gif))
+
