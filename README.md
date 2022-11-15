@@ -17,4 +17,6 @@ Skills: Pytorch / Tensorflow / Scikit-Learn / Numpy / Pandas
 
 
 
-<img src="https://github.com/z0CoolCS/z0CoolCS/blob/main/atari_dql.gif" width="512" >
+<img src="https://github.com/z0CoolCS/z0CoolCS/blob/main/atari_dql.gif" width="320" >
+
+<img src="https://github.com/z0CoolCS/z0CoolCS/blob/main/cartpole_dql.gif" width="320" >
