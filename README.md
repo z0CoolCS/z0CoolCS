@@ -15,5 +15,6 @@ Skills: Pytorch / Tensorflow / Scikit-Learn / Numpy / Pandas
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-![Alt Text](https://github.com/z0CoolCS/z0CoolCS/blob/main/atari_dql.gif)
 
+
+<img src="https://github.com/z0CoolCS/z0CoolCS/blob/main/atari_dql.gif" width="512" >
