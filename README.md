@@ -15,8 +15,39 @@ Skills: Pytorch / Tensorflow / Scikit-Learn / Numpy / Pandas
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
+<table>
+  <tr>
+    <th>First name</th>
+    <th>Last name</th>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+  </tr>
+  <tr>
+    <td>Jane</td>
+    <td>Doe</td>
+  </tr>
+</table>
 
-
+<table>
+  <tr>
+    <th>First name</th>
+    <th>Last name</th>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/z0CoolCS/z0CoolCS/blob/main/atari_dql.gif" width="320" >
+    </td>
+    <td>
+      <img src="https://github.com/z0CoolCS/z0CoolCS/blob/main/cartpole_dql.gif" width="320" >
+    </td>
+  </tr>
+</table>
 <img src="https://github.com/z0CoolCS/z0CoolCS/blob/main/atari_dql.gif" width="320" >
 
 <img src="https://github.com/z0CoolCS/z0CoolCS/blob/main/cartpole_dql.gif" width="320" >
