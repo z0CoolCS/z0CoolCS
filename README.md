@@ -33,9 +33,4 @@ Skills: Pytorch / Tensorflow / Scikit-Learn / Numpy / Pandas
     </td>
   </tr>
 </table>
-
-
-[![Lewagon - Students' exposition](https://www.youtube.com/watch?v=0U0dfwu6EOY)](https://www.youtube.com/watch?v=0U0dfwu6EOY)
-
-
-
+[<img src="https://www.youtube.com/watch?v=0U0dfwu6EOY" width="50%">](https://www.youtube.com/watch?v=0U0dfwu6EOY)
