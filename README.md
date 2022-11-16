@@ -32,12 +32,12 @@ Skills: Pytorch / Tensorflow / Scikit-Learn / Numpy / Pandas
 
 <table>
   <tr>
-    <th>First name</th>
-    <th>Last name</th>
+    <th>Deep Q-Learning</th>
+    <th>Deep Q-Learning</th>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
+    <td>Atari</td>
+    <td>CartPole</td>
   </tr>
   <tr>
     <td>
@@ -48,6 +48,3 @@ Skills: Pytorch / Tensorflow / Scikit-Learn / Numpy / Pandas
     </td>
   </tr>
 </table>
-<img src="https://github.com/z0CoolCS/z0CoolCS/blob/main/atari_dql.gif" width="320" >
-
-<img src="https://github.com/z0CoolCS/z0CoolCS/blob/main/cartpole_dql.gif" width="320" >
