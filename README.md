@@ -33,4 +33,7 @@ Skills: Pytorch / Tensorflow / Scikit-Learn / Numpy / Pandas
     </td>
   </tr>
 </table>
-[<img src="https://www.youtube.com/watch?v=0U0dfwu6EOY" width="50%">](https://www.youtube.com/watch?v=0U0dfwu6EOY)
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=0U0dfwu6EOY">
+</iframe>
