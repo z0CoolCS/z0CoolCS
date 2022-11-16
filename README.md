@@ -17,21 +17,6 @@ Skills: Pytorch / Tensorflow / Scikit-Learn / Numpy / Pandas
 
 <table>
   <tr>
-    <th>First name</th>
-    <th>Last name</th>
-  </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-  </tr>
-  <tr>
-    <td>Jane</td>
-    <td>Doe</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <th>Deep Q-Learning</th>
     <th>Deep Q-Learning</th>
   </tr>
