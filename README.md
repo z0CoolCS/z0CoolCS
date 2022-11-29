@@ -36,10 +36,18 @@ Skills: Pytorch / Tensorflow / Scikit-Learn / Numpy / Pandas
 
 <table>
   <tr>
+    <th>Competitive Programming</th>
+  </tr>
+  <tr>
     <th>SQL Solutions for Hackerrank Problems</th>
   </tr>
   <tr>
     <td>
+      <a href='https://github.com/z0CoolCS/CompetitiveProgramming'>
+        <img src="competitive_programming.png" width="320" >
+      </a> 
+    </td>
+      <td>
       <a href='https://github.com/z0CoolCS/Hackerrank-Problems/tree/main/SQL-Problems'>
         <img src="sql.png" width="320" >
       </a> 
