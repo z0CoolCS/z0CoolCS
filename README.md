@@ -39,10 +39,6 @@ Skills: Pytorch / Tensorflow / Scikit-Learn / Numpy / Pandas
     <th>SQL Solutions for Hackerrank Problems</th>
   </tr>
   <tr>
-    <td>Atari</td>
-    <td>CartPole</td>
-  </tr>
-  <tr>
     <td>
       <a href='https://github.com/z0CoolCS/Hackerrank-Problems/tree/main/SQL-Problems'>
         <img src="sql.png" width="320" >
