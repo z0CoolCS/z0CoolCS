@@ -1,5 +1,4 @@
 ![AI Researcher / Data Scientist](https://github.com/z0CoolCS/z0CoolCS/blob/main/background_gio.png)
-<img src='https://github.com/z0CoolCS/z0CoolCS/blob/main/background_gio.png' alt='linkedin' height='720'>
 
 #### Junior AI Researcher / Data Scientist
 
