@@ -36,7 +36,7 @@ Skills: Pytorch / Tensorflow / Scikit-Learn / Numpy / Pandas
 
 <table>
   <tr>
-    <th>Competitive Programming</th>
+    <th>Solutions for Competitive Programming Problems</th>
     <th>SQL Solutions for Hackerrank Problems</th>
   </tr>
   <tr>
