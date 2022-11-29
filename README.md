@@ -1,4 +1,4 @@
-![AI Researcher / Data Scientist](https://github.com/z0CoolCS/z0CoolCS/blob/main/banner_gio.png)
+![AI Researcher / Data Scientist](https://github.com/z0CoolCS/z0CoolCS/blob/main/background_gio.png)
 
 #### Junior AI Researcher / Data Scientist
 
