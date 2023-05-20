@@ -2,14 +2,13 @@
 
 #### Junior AI Researcher / Data Scientist
 
-Skills: Pytorch / Tensorflow / Scikit-Learn / Numpy / Pandas
-
-- 🔭 I’m currently working on Reinforcement Learning applications. 
-- 🌱 I’m currently learning Graph Neural Networks as embedding for boosting Deep Learning Models. 
-- 👯 I’m looking to collaborate on Data Science projects and AI research  
-- 🤔 I’m looking for help with any enthusiastic human being :) . 
-- 📫 How to reach me: using Linkedin. 
-
+| Title | Notebook | Repository |
+|-------|----------|------------|
+| Tumor | [Notebook 1](link_to_notebook_1.ipynb) | [Repository 1](link_to_repo_1) |
+| Project 2 | [Notebook 2](link_to_notebook_2.ipynb) | [Repository 2](link_to_repo_2) |
+| Project 3 | [Notebook 3](link_to_notebook_3.ipynb) | [Repository 3](link_to_repo_3) |
+| Project 4 | [Notebook 4](link_to_notebook_4.ipynb) | [Repository 4](link_to_repo_4) |
+| Project 5 | [Notebook 5](link_to_notebook_5.ipynb) | [Repository 5](link_to_repo_5) |
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/z0CoolCS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gio-mitchell/)  
 
