@@ -1,7 +1,7 @@
 ![AI Researcher / Data Scientist](https://github.com/z0CoolCS/z0CoolCS/blob/main/welcome_gio.png)
 
 ## Summary
-Welcome to my GitHub profile! I'm Giordano Alvitez, a Junior AI Researcher / Data Scientist. I am passionate about Artificial Intelligence, with main interest in Reinforcement Learning, Computer Vision, Natural Language Processing, and Graphs Neural Networks. This profile showcases my projects, contributions, and expertise in Research, AI and Development. Feel free to explore my repositories and reach out for collaborations or discussions.
+Welcome to my GitHub profile! I'm Giordano Alvitez, a Junior AI Researcher / Data Scientist. I am passionate about Artificial Intelligence, with a primary interest in Reinforcement Learning, Computer Vision, Natural Language Processing, and Graphs Neural Networks. This profile showcases my projects, contributions, and Research, AI, and Development expertise. Feel free to explore my repositories and reach out for collaborations or discussions.
 
 ## Skills
 - Programming Languages: Python, C++, Javascript, Java.
