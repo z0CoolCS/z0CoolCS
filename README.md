@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Giordano Alvitez, a Junior AI Researcher / Dat
 
 ## Skills
 - Programming Languages: Python, C++, Javascript, Java.
-- Frameworks and Libraries: Pytorch, Tensorflow, Pandas, Numpy, STDC++, 
+- Frameworks and Libraries: Pytorch, Tensorflow, Pandas, Numpy, STDC++, OpenCV.  
 - Machine Learning and AI: 2 years of expertise applying and deploying ML models such as ResNet, Actor-Critic, Transformers, Graph Convolutional Networks.
 - Web Development: Deploying in Google Cloud Services and Azure Services.
 - Data Analysis and Visualization: Power BI, MatplotLib, Seaborn.
@@ -14,12 +14,11 @@ Welcome to my GitHub profile! I'm Giordano Alvitez, a Junior AI Researcher / Dat
 
 Here are some of my notable projects:
 
-### Project 1
+### Brain Tumor Classification
 
-- Description: [Provide a brief description of the project]
-- Technologies: [List the technologies or tools used]
-- Repository: [Link to the project repository]
-- Live Demo: [If applicable, provide a link to a live demo or deployed application]
+- Description: Training a machine learning model that focuses on classifying brain tumors (glioma, meningioma, pituitary tumor, no tumor). Some preprocessing is made using OpenCV.
+- Technologies: Pytorch, OpenCV, MatplotLib, Numpy, Pandas
+- Repository: [Link](https://github.com/z0CoolCS/resnet_pretrained/tree/main)
 
 ### Project 2
 
