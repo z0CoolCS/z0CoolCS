@@ -19,17 +19,17 @@ Here are some of my notable projects:
 - Description: Training a machine learning model that focuses on classifying brain tumors (glioma, meningioma, pituitary tumor, no tumor). Some preprocessing is made using OpenCV.
 - Technologies: Pytorch, OpenCV, MatplotLib, Numpy, Pandas
 - Repository: [Link](https://github.com/z0CoolCS/resnet_pretrained/tree/main)
-- 
+
 ### Cacao Beans Object Detection
 
-- Description: [Provide a brief description of the project]
-- Technologies: [List the technologies or tools used]
+- Description: Using a pretrained model for detecting infected or healthy cacao beans.
+- Technologies: Pytorch, OpenCV, MatplotLib, Numpy, Pandas
 - Repository: [Link](https://github.com/z0CoolCS/cacao_objectdetection)
 
 ### Coffee Beans Classification
 
-- Description: [Provide a brief description of the project]
-- Technologies: [List the technologies or tools used]
+- Description: Using a pretrained model for detecting kind of coffee beans.
+- Technologies: Tensorflow, OpenCV, MatplotLib, Numpy, Pandas
 - Repository: [Link](https://github.com/z0CoolCS/coffee_classification)
 
 ### More projects
