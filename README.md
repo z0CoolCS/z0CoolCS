@@ -33,9 +33,9 @@ Here are some of my notable projects:
 - Repository: [Link](https://github.com/z0CoolCS/coffee_classification)
 
 ### More projects
-| Title | Notebook | Repository |
-|-------|----------|------------|
-| None | [None](link_to_notebook_1.ipynb) | [None](link_to_repo_1) |
+| Title | Notebook | Repository | Technologies |
+|-------|----------|------------| ------------ |
+| None | [None](link_to_notebook_1.ipynb) | [None](link_to_repo_1) | [None](link_to_repo_1) |
 
 ## Contact Information
 
