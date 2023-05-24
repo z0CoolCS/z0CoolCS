@@ -19,20 +19,18 @@ Here are some of my notable projects:
 - Description: Training a machine learning model that focuses on classifying brain tumors (glioma, meningioma, pituitary tumor, no tumor). Some preprocessing is made using OpenCV.
 - Technologies: Pytorch, OpenCV, MatplotLib, Numpy, Pandas
 - Repository: [Link](https://github.com/z0CoolCS/resnet_pretrained/tree/main)
-
-### Project 2
-
-- Description: [Provide a brief description of the project]
-- Technologies: [List the technologies or tools used]
-- Repository: [Link to the project repository]
-- Live Demo: [If applicable, provide a link to a live demo or deployed application]
-
-### Project 3
+- 
+### Cacao Beans Object Detection
 
 - Description: [Provide a brief description of the project]
 - Technologies: [List the technologies or tools used]
-- Repository: [Link to the project repository]
-- Live Demo: [If applicable, provide a link to a live demo or deployed application]
+- Repository: [Link](https://github.com/z0CoolCS/cacao_objectdetection)
+
+### Coffee Beans Classification
+
+- Description: [Provide a brief description of the project]
+- Technologies: [List the technologies or tools used]
+- Repository: [Link](https://github.com/z0CoolCS/coffee_classification)
 
 ### More projects
 | Title | Notebook | Repository |
@@ -43,11 +41,8 @@ Here are some of my notable projects:
 
 You can reach out to me via:
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile URL]
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gio-mitchell/)  
-- Twitter: [Your Twitter Handle]
-- Website/Blog: [Your Website or Blog URL]
+- Email: giordanoalvitez@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gio-mitchell/
 
 Feel free to connect and engage with me. I'm open to collaborations, discussions, and new opportunities.
 
@@ -57,10 +52,6 @@ Thank you for visiting my GitHub profile. I hope you find my projects and contri
 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-
-## Computer Vision Projects
-- [Cacao Beans Object Detection](https://github.com/z0CoolCS/cacao_objectdetection)
-- [Coffee Beans Classification](https://github.com/z0CoolCS/coffee_classification)
 
 ## Reinforcement Learning Projects
 <table>
