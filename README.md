@@ -18,7 +18,7 @@ Here are some of my notable projects:
 
 - Description: Training a machine learning model that focuses on classifying brain tumors (glioma, meningioma, pituitary tumor, no tumor). Some preprocessing is made using OpenCV.
 - Technologies: Pytorch, OpenCV, MatplotLib, Numpy, Pandas
-- Repository: [Main branch]([https://github.com/z0CoolCS/resnet_pretrained/tree/main](https://github.com/z0CoolCS/braintumor_classification)) 🧠
+- Repository: [Main branch](https://github.com/z0CoolCS/braintumor_classification) 🧠
 
 ### Cacao Beans Object Detection
 
