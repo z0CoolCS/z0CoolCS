@@ -9,7 +9,7 @@ Here are some of my notable projects:
 
 ### Brain Tumor Classification
 
-- Description: Training a machine learning model that focuses on classifying brain tumors (glioma, meningioma, pituitary tumor, no tumor). Some preprocessing is made using OpenCV.
+- Description: Training a machine learning model that focuses on classifying brain tumors (glioma, meningioma, pituitary tumor, no tumor). Some preprocessing is made using OpenCV and TorchVision Transformer.
 - Technologies: Pytorch, OpenCV, MatplotLib, Numpy, Pandas
 - Repository: [Main branch](https://github.com/z0CoolCS/braintumor_classification) 🧠
 
