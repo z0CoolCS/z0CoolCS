@@ -3,13 +3,6 @@
 ## Summary
 Welcome to my GitHub profile! I'm Giordano Alvitez, a Junior AI Researcher / Data Scientist. I am passionate about AI, with a primary interest in Reinforcement Learning, Computer Vision, Natural Language Processing, and Graphs Neural Networks. This profile showcases my projects, contributions, and expertise in Research, AI, and App Development. Feel free to explore my repositories and reach out for collaborations or discussions.
 
-## Skills
-- Programming Languages: Python, C++, Javascript, Java.
-- Frameworks and Libraries: Pytorch, Tensorflow, Pandas, Numpy, STDC++, OpenCV.  
-- Machine Learning and AI: 2 years of expertise applying and deploying ML models such as ResNet, Actor-Critic, Transformers, Graph Convolutional Networks.
-- Web Development: Deploying in Google Cloud Services and Azure Services.
-- Data Analysis and Visualization: Power BI, MatplotLib, Seaborn.
-
 ## Projects
 
 Here are some of my notable projects:
