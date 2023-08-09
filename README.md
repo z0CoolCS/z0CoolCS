@@ -19,15 +19,17 @@ Here are some of my notable projects:
 - Technologies: Pytorch, OpenCV, MatplotLib, Numpy, Pandas
 - Repository: [Main branch](https://github.com/z0CoolCS/cacao_objectdetection) 🫘
 
-### Coffee Beans Classification
+### Skin healthcare chatbot 
 
-- Description: Using a pretrained model for detecting kind of coffee beans.
-- Technologies: Tensorflow, OpenCV, MatplotLib, Numpy, Pandas
-- Repository: [Main branch](https://github.com/z0CoolCS/coffee_classification) ☕️
+- Description: A medical chatbot to help patients with skin issues.
+- Technologies: Palm2, Vertex AI, Generative AI Studio, Streamlit.
+- Repository: [Main branch](https://github.com/z0CoolCS/vitality_squad) 🤖
 
 ### More projects
 | Title | Notebook | Repository | Technologies |
 |-------|----------|------------| ------------ |
+| Image captioning using Pytorch | [notebook](https://github.com/z0CoolCS/ImageCaptioning_pytorch/blob/main/ImageCaptioning_Pytorch.ipynb) | [repo](https://github.com/z0CoolCS/ImageCaptioning_pytorch) | Pytorch, MatplotLib, Numpy, Pandas, PIL|
+| Using a pretrained model for detecting kind of coffee beans | [notebook](https://github.com/z0CoolCS/coffee_classification/blob/main/Coffee_Project.ipynb) | [repo](https://github.com/z0CoolCS/coffee_classification) | Tensorflow, OpenCV, MatplotLib, Numpy, Pandas |
 | None | [None](link_to_notebook_1.ipynb) | [None](link_to_repo_1) | [None](link_to_repo_1) |
 
 ## Contact Information
