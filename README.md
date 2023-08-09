@@ -36,6 +36,7 @@ You can reach out to me via:
 
 - Email: giordanoalvitez@gmail.com
 - LinkedIn: https://www.linkedin.com/in/gio-mitchell/
+- Website: https://giospace.netlify.app/
 
 Feel free to connect and engage with me. I'm open to collaborations, discussions, and new opportunities.
 
@@ -81,19 +82,6 @@ Thank you for visiting my GitHub profile. I hope you find my projects and contri
       <a href='https://github.com/z0CoolCS/Hackerrank-Problems/tree/main/SQL-Problems'>
         <img src="sql.png" width="320" >
       </a> 
-    </td>
-  </tr>
-</table>
-
-# Lewagon Students' project expositions
-
-<table>
-  <tr>
-    <td>
-      
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=0U0dfwu6EOY
-" target="_blank"><img src="http://img.youtube.com/vi/0U0dfwu6EOY/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
     </td>
   </tr>
 </table>
