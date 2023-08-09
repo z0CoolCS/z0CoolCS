@@ -1,5 +1,5 @@
 ## Summary
-Welcome to my GitHub profile! I'm Giordano Alvitez, a Junior AI Researcher / Data Scientist. I am passionate about AI, with a primary interest in Reinforcement Learning, Computer Vision, Natural Language Processing, and Graphs Neural Networks. This profile showcases my projects, contributions, and expertise in Research, AI, and App Development. Feel free to explore my repositories and reach out for collaborations or discussions.
+Welcome to my GitHub profile! I'm Giordano Alvitez, an AI Researcher / Data Scientist. I am passionate about AI, with a primary interest in Reinforcement Learning, Computer Vision, Natural Language Processing, and Graphs Neural Networks. This profile showcases my projects, contributions, and expertise in Research, AI, and App Development. Feel free to explore my repositories and reach out for collaborations or discussions.
 
 ## Projects
 
